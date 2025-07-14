@@ -50,6 +50,7 @@ def initialize_models():
             logger.info(f"CLIP test output shape: {output.shape}")
         
         # Initialize OpenAI
+       # paste your key here
         logger.info("OpenAI client initialized")
         
         return device, model, preprocess, openai_client

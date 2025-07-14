@@ -1,0 +1,72 @@
+2025-07-10 22:45:16,326 - INFO - Loading CLIP model on device: cpu
+2025-07-10 22:45:26,519 - INFO - CLIP model loaded successfully
+2025-07-10 22:45:27,249 - INFO - OpenAI client initialized successfully
+2025-07-10 22:45:27,249 - INFO - Loaded 100 object labels
+2025-07-10 22:45:27,290 - INFO - Starting server...
+2025-07-10 22:45:27,466 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://192.168.0.103:8000
+2025-07-10 22:45:27,468 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-10 22:47:12,315 - INFO - Received new explain request
+2025-07-10 22:47:12,328 - INFO - Received image data (length: 64048)
+2025-07-10 22:47:12,634 - INFO - Image loaded: (640, 480) pixels, mode: RGB
+2025-07-10 22:47:12,851 - INFO - Image tensor shape: torch.Size([1, 3, 224, 224])
+2025-07-10 22:47:29,730 - INFO - Top prediction: monitor (confidence: 0.70)
+2025-07-10 22:47:29,736 - INFO - Top 5 predictions:
+2025-07-10 22:47:29,737 - INFO -   monitor: 0.7039
+2025-07-10 22:47:29,737 - INFO -   blender: 0.0511
+2025-07-10 22:47:29,737 - INFO -   laptop: 0.0447
+2025-07-10 22:47:29,738 - INFO -   remote: 0.0264
+2025-07-10 22:47:29,738 - INFO -   television: 0.0230
+2025-07-10 22:47:31,458 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-10 22:47:31,460 - ERROR - OpenAI explanation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-api*****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-07-10 22:47:31,462 - INFO - 192.168.0.111 - - [10/Jul/2025 22:47:31] "POST /explain HTTP/1.1" 200 -
+2025-07-10 22:50:14,993 - INFO - Loading CLIP model on device: cpu
+2025-07-10 22:50:22,510 - INFO - CLIP model loaded successfully
+2025-07-10 22:50:23,176 - INFO - OpenAI client initialized successfully
+2025-07-10 22:50:23,177 - INFO - Loaded 100 object labels
+2025-07-10 22:50:23,192 - INFO - Starting server...
+2025-07-10 22:50:23,286 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://192.168.0.103:8000
+2025-07-10 22:50:23,288 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-10 22:51:29,558 - INFO - Received new explain request
+2025-07-10 22:51:29,571 - INFO - Received image data (length: 7236)
+2025-07-10 22:51:29,817 - INFO - Image loaded: (640, 480) pixels, mode: RGB
+2025-07-10 22:51:29,925 - INFO - Image tensor shape: torch.Size([1, 3, 224, 224])
+2025-07-10 22:51:46,770 - INFO - Top prediction: pan (confidence: 0.07)
+2025-07-10 22:51:46,777 - INFO - Top 5 predictions:
+2025-07-10 22:51:46,777 - INFO -   pan: 0.0730
+2025-07-10 22:51:46,778 - INFO -   plate: 0.0541
+2025-07-10 22:51:46,778 - INFO -   thermostat: 0.0502
+2025-07-10 22:51:46,779 - INFO -   pot: 0.0493
+2025-07-10 22:51:46,779 - INFO -   iron: 0.0451
+2025-07-10 22:51:49,619 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-10 22:51:49,628 - INFO - Successfully generated explanation
+2025-07-10 22:51:49,629 - INFO - 192.168.0.111 - - [10/Jul/2025 22:51:49] "POST /explain HTTP/1.1" 200 -
+2025-07-10 22:52:07,733 - INFO - Received new explain request
+2025-07-10 22:52:07,734 - INFO - Received image data (length: 7236)
+2025-07-10 22:52:07,738 - INFO - Image loaded: (640, 480) pixels, mode: RGB
+2025-07-10 22:52:13,543 - INFO - Image tensor shape: torch.Size([1, 3, 224, 224])
+2025-07-10 22:52:30,463 - INFO - Top prediction: pan (confidence: 0.07)
+2025-07-10 22:52:30,464 - INFO - Top 5 predictions:
+2025-07-10 22:52:30,464 - INFO -   pan: 0.0730
+2025-07-10 22:52:30,465 - INFO -   plate: 0.0541
+2025-07-10 22:52:30,465 - INFO -   thermostat: 0.0502
+2025-07-10 22:52:30,465 - INFO -   pot: 0.0493
+2025-07-10 22:52:30,467 - INFO -   iron: 0.0451
+2025-07-10 22:52:32,815 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-10 22:52:32,818 - INFO - Successfully generated explanation
+2025-07-10 22:52:32,819 - INFO - 192.168.0.111 - - [10/Jul/2025 22:52:32] "POST /explain HTTP/1.1" 200 -
+2025-07-10 22:52:55,473 - INFO - Received new explain request
+2025-07-10 22:52:55,473 - INFO - Received image data (length: 7236)
+2025-07-10 22:52:55,476 - INFO - Image loaded: (640, 480) pixels, mode: RGB
+2025-07-10 22:52:55,556 - INFO - Image tensor shape: torch.Size([1, 3, 224, 224])
+2025-07-10 22:53:11,359 - INFO - Top prediction: pan (confidence: 0.07)
+2025-07-10 22:53:11,360 - INFO - Top 5 predictions:
+2025-07-10 22:53:11,361 - INFO -   pan: 0.0730
+2025-07-10 22:53:11,362 - INFO -   plate: 0.0541
+2025-07-10 22:53:11,362 - INFO -   thermostat: 0.0502
+2025-07-10 22:53:11,362 - INFO -   pot: 0.0493
+2025-07-10 22:53:11,363 - INFO -   iron: 0.0451
+2025-07-10 22:53:13,203 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-10 22:53:13,204 - INFO - Successfully generated explanation
+2025-07-10 22:53:13,205 - INFO - 192.168.0.111 - - [10/Jul/2025 22:53:13] "POST /explain HTTP/1.1" 200 -

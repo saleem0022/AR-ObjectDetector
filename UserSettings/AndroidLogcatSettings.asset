@@ -1,0 +1,315 @@
+{
+    "m_SelectedDeviceId": "ZY22H62Z4B",
+    "m_SelectedProcess": {
+        "deviceId": "ZY22H62Z4B",
+        "name": "com.DefaultCompany.ARSceneExplainer",
+        "processId": 29530,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownProcessesForSerialization": [
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.motorola.launcher3",
+            "processId": 2347,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 3799,
+            "exited": true
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 8079,
+            "exited": true
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 8878,
+            "exited": true
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 10842,
+            "exited": true
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 12816,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 13733,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 14438,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 12452,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 15540,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 18852,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 19779,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 22012,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 23508,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 25104,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 29365,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 31311,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 2437,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 5726,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 2173,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 5333,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 7865,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 8625,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 10494,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 11143,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 11695,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 12799,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 13853,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 15423,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 16348,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 20862,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 21714,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 24952,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 26590,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY22H62Z4B",
+            "name": "com.DefaultCompany.ARSceneExplainer",
+            "processId": 29530,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_ExtraWindowState": {
+        "Type": 0,
+        "Height": 0.0
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "AutoCapture": true
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    },
+    "m_ScreenCaptureSettings": {
+        "Mode": 0,
+        "m_LastSaveLocation": [
+            "C:\\Users\\Saleem Ahmad\\Desktop\\Jelly\\AR Scene Explainer",
+            "C:\\Users\\Saleem Ahmad\\Desktop\\Jelly\\AR Scene Explainer"
+        ]
+    },
+    "m_QueryLayoutSettings": {
+        "LastLayoutSaveLocation": "",
+        "LastScreenshotSaveLocation": ""
+    },
+    "m_InputSettings": {
+        "ShiftModifier": false,
+        "SendText": "",
+        "PosixKillSignal": 0,
+        "TargetProcess": {
+            "deviceId": "",
+            "name": "",
+            "processId": 0,
+            "exited": false
+        }
+    },
+    "m_AutoScroll": 2
+}
